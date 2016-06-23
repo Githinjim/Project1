@@ -7,9 +7,36 @@ package project1;
 
 /**
  *
- * @author cs302001_08
+ * @author Michael Githinji
  */
 public class Project1 {
+
+    private String FirstName;
+    private String LastName;
+    private String PhoneNumber;
+    private String Address;
+    /* private String street;
+     private String city;
+     private String county;
+     private String PostalCode;
+     */
+
+    // this are the getter methods.
+    public String getFirstName() {
+        return FirstName;
+    }
+
+    public String getLasttName() {
+        return LastName;
+    }
+
+    public String getPhoneNumber() {
+        return PhoneNumber;
+    }
+
+    public String getAddress() {
+        return Address;
+    }
 
     /**
      * @param args the command line arguments
@@ -17,5 +44,5 @@ public class Project1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
 }

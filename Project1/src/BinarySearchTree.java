@@ -6,7 +6,7 @@
 
 /**
  *
- * @author cs302001_08
+ * @author Michael Githinji
  */
 public class BinarySearchTree {
 
